@@ -1,0 +1,45 @@
+/*
+ * adjust spacing
+ */
+
+.md-typeset h1 {
+    margin-bottom: 0;
+}
+
+div.md-grid {
+    margin: 0;
+}
+
+.md-typeset li, .md-typeset p {
+    line-height: 1.1em;
+}
+
+.md-typeset ul li, .md-typeset ol li {
+    margin-bottom: 0;
+}
+
+.md-typeset p + ul, .md-typeset p + ol {
+    margin-top: -1em !important;
+}
+
+.md-typeset ul, .md-typeset ol {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+/*
+ * remove footer
+ */
+
+footer {
+    display: none;
+}
+
+/*
+ * tune images
+ */
+
+img[alt=quoridor] {
+    display: block;
+    margin: 1em auto;
+}
