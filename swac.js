@@ -2,19 +2,19 @@
 // service worker application cache
 //
 
-var CACHE = 'v20210917151841';
+var CACHE = 'v20211012101042';
 
 var AUTO = [
     '404.html',
     'assets/images/favicon.png',
-    'assets/javascripts/bundle.56a63758.min.js',
+    'assets/javascripts/bundle.f89c2efe.min.js',
     'assets/javascripts/lunr/min/lunr.fr.min.js',
     'assets/javascripts/lunr/min/lunr.multi.min.js',
     'assets/javascripts/lunr/min/lunr.stemmer.support.min.js',
     'assets/javascripts/lunr/tinyseg.js',
     'assets/javascripts/lunr/wordcut.js',
-    'assets/javascripts/workers/search.409db549.min.js',
-    'assets/stylesheets/main.be71726b.min.css',
+    'assets/javascripts/workers/search.8397ff9e.min.js',
+    'assets/stylesheets/main.5143246d.min.css',
     'assets/stylesheets/palette.3f5d1f46.min.css',
     'awele.html',
     'c-cross.html',
