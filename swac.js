@@ -2,7 +2,7 @@
 // service worker application cache
 //
 
-var CACHE = 'v20220110112622';
+var CACHE = 'v20220113180413';
 
 var AUTO = [
     '404.html',
