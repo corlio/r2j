@@ -2,20 +2,20 @@
 // service worker application cache
 //
 
-var CACHE = 'v20220113180413';
+var CACHE = 'v20220616131213';
 
 var AUTO = [
     '404.html',
     'assets/images/favicon.png',
-    'assets/javascripts/bundle.5e13d264.min.js',
+    'assets/javascripts/bundle.748e2769.min.js',
     'assets/javascripts/lunr/min/lunr.fr.min.js',
     'assets/javascripts/lunr/min/lunr.multi.min.js',
     'assets/javascripts/lunr/min/lunr.stemmer.support.min.js',
     'assets/javascripts/lunr/tinyseg.js',
     'assets/javascripts/lunr/wordcut.js',
-    'assets/javascripts/workers/search.b6ff8c07.min.js',
-    'assets/stylesheets/main.ee0f47ba.min.css',
-    'assets/stylesheets/palette.e6a45f82.min.css',
+    'assets/javascripts/workers/search.2a1c317c.min.js',
+    'assets/stylesheets/main.8c5ef100.min.css',
+    'assets/stylesheets/palette.9647289d.min.css',
     'awele.html',
     'c-cross.html',
     'carcassonne.html',
@@ -30,6 +30,7 @@ var AUTO = [
     'index.html',
     'inside.html',
     'jaipur.html',
+    'jarnac.html',
     'les-cites-perdues.html',
     'liens.html',
     'orleans.html',
